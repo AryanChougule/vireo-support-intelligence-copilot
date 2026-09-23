@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.env
+*.pyc
+outputs/*.csv
+outputs/*.json
+data/*.csv
+data/*.pdf
+data/*.txt
+.streamlit/

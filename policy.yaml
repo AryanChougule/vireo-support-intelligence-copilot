@@ -1,0 +1,28 @@
+effective_date: "2025-04-01"
+
+first_response_sla_minutes:
+  chat: 15
+  voice: 120
+  social: 240
+  email: 480
+
+contact_cost_inr:
+  chat: 210
+  email: 260
+  voice: 520
+  social: 240
+
+blended_cost_inr: 290
+internal_transfer_cost_inr: 305
+sla_miss_credit_inr: 350
+
+attendance_statuses:
+  - resolved
+  - closed
+
+eligible_leaderboard_tiers:
+  - Tier 1
+
+excluded_tier_keywords:
+  - Tier 2
+  - Warranty
